@@ -1,1 +1,10 @@
+loclahost
+localhost/phpmyadmin
+copy oc extracted files to c:\xampp\htdocs\oc
+rename config-dist.php in both admin and oc folder to config.php
 
+
+loclahost
+localhost/phpmyadmin
+copy oc extracted files to c:\xampp\htdocs\oc
+rename config-dist.php in both admin and oc folder to config.php
